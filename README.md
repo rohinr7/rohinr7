@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohin</h1>
-<h3 align="center">Machine Learning and Computer Vision Engineer. I am studying MSC in Image Processing and Computer Vision in University ogf Bordeuax. I work in End to End AI vision solutions.</h3>
+<h3 align="center">Machine Learning and Computer Vision Engineer. I am studying MSC in Image Processing and Computer Vision in University of Bordeuax. I work in End to End AI vision solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohinr7&label=Profile%20views&color=0e75b6&style=flat-square" alt="rohinr7" /> </p>
 
